@@ -1,0 +1,5 @@
+*.pt
+*.ipycache
+*.pyc
+.venv
+.ipynb_cehckpoints
